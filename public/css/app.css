@@ -11856,4 +11856,17 @@ body {
   background-color: #b1b1b1;
 }
 
+.grandeCase {
+  width: 65%;
+  height: 100%;
+  background-color: white;
+  border-radius: 50px;
+}
+
+.portrait {
+  width: 45%;
+  border-top-left-radius: 50px;
+  border-bottom-left-radius: 50px;
+}
+
 /*# sourceMappingURL=app.css.map */
