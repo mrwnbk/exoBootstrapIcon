@@ -11869,4 +11869,34 @@ body {
   border-bottom-left-radius: 50px;
 }
 
+.link {
+  font-size: 13px;
+}
+.link p {
+  text-decoration: underline 1px;
+}
+
+.zhong p:nth-of-type(1) {
+  font-size: 35px;
+}
+.zhong p:nth-of-type(2) {
+  font-size: 14px;
+  margin-top: -20px;
+}
+
+.artStation img {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+}
+
+.abonnes p:nth-of-type(1) {
+  font-weight: 500;
+  font-size: 15px;
+}
+.abonnes p:nth-of-type(2) {
+  font-size: 15px;
+  margin-top: -18px;
+}
+
 /*# sourceMappingURL=app.css.map */
